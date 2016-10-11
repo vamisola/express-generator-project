@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Hardware Repair",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+        "price_range": "$100-$200"
+    },
+    {
+        "name": "Virus Removal",
+        "description": "distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+        "price_range": "$150-$200"
+    },
+    {
+        "name": "PC Tune Up",
+        "description": "distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+        "price_range": "$75-$100"
+    },
+    {
+        "name": "Network Services",
+        "description": "distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+        "price_range": "$500-$1000"
+    }
+]
